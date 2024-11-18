@@ -1,5 +1,5 @@
 # My cheatsheet git commands
-
+- global configuration `git config --global --list` to list all configuration
 - configure default editor for commit messages
   `git config --global core.editor "code --wait"`
 
