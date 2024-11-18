@@ -1,5 +1,6 @@
 # My cheatsheet git commands
-
+wissal zanzouri 
+ei1. 3
 - configure default editor for commit messages
   `git config --global core.editor "code --wait"`
 
