@@ -1,6 +1,9 @@
 # My cheatsheet git commands
 
-- configure default editor for commit messages
+- configure default editor for commit message
+  `git config --global core.editor "code --wait"`
+
+- configure default editor for commit message
   `git config --global core.editor "code --wait"`
 
 - list global configuration `git config --global --list`
