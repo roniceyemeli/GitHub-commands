@@ -1,8 +1,11 @@
 # My cheatsheet git commands
 
-- list global configuration `git config --global --list`
 - configure default editor for commit messages
   `git config --global core.editor "code --wait"`
+
+- list global configuration `git config --global --list`
+
+- config global user name `git config --global user.name <username>`
 
 - get the status on the recent dir
   `git status`
