@@ -12,6 +12,8 @@
 - stage a file in a the current dir
   `git add <file_name>`
 
+  journee
+
 - stage all files in the current dir
   ` git add .`
 
